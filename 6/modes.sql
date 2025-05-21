@@ -1,0 +1,2 @@
+.mode table
+.headers ON

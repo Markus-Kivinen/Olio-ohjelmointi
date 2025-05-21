@@ -1,0 +1,1 @@
+SELECT mac FROM device

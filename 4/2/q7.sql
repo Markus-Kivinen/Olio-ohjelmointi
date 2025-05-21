@@ -1,0 +1,2 @@
+DELETE FROM device 
+WHERE id = (SELECT id FROM device ORDER BY id ASC LIMIT 1);
